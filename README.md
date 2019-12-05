@@ -21,7 +21,9 @@ Documentation](https://www.ibm.com/support/knowledgecenter/en/SSWRJV_10.1.0/jsm/
 To understand the layout options we'll discuss, it's important to first recall
 the hardware of a Summit compute node. 
 
+<p align=center>
 <img src="./images/Summit_Compute_Node.png" alt="Summit Compute Node">
+</p>
 
 This graphic is simplified to represent a user's perspective of Summit's AC922
 compute nodes. Importantly, note that each Power9 processor actually has 22
