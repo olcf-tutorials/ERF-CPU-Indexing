@@ -63,7 +63,7 @@ default on Summit), there are no additional considerations. However, if you've
 requested SMT1 or SMT2, you will be restricted in which numbers you can use as
 a value to `cpu:`. For SMT1, you can only use the "first" hardware thread on
 each core (ex. 0, 4, 8, 12, ...). For SMT2, you can only use the "first two"
-hardware threads on each fore (ex. 0, 1, 4, 5, 8, 8, ...).
+hardware threads on each fore (ex. 0, 1, 4, 5, 8, 9, ...).
 
 To use physical indexing in your ERF, set the following in its preamble:
 ```
